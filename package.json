@@ -1,11 +1,11 @@
 {
-  "name": "goit-advancejs-hw-02",
+  "name": "goit-advancedjs-hw-02",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/goit-advancejs-hw-02/",
+    "build": "vite build --base=/goit-advancedjs-hw-02/",
     "preview": "vite preview"
   },
   "devDependencies": {
